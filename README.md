@@ -1,4 +1,6 @@
-### Hi there 👋
+![BANEER CON FONDO](https://github.com/titooDiaz/titooDiaz/assets/107213851/2660b1ad-3ce5-448a-bcec-508222f11292)
+
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=titooDiaz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 <!--
 **titooDiaz/titooDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
