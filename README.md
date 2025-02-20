@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/17fade24-2b1e-48ed-b860-7fcb55c27acb" alt="Banner" style="width: 100%; height: auto;">
+<img src="https://github.com/user-attachments/assets/0bf25622-0fe9-4c9c-945e-55abfafb86b3" alt="Banner" style="width: 100%; height: auto;">
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
